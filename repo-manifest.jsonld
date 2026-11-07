@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-fullstack/commit/90e074e12383209716c68b98a74982599e477900",
       "git:hexsha": "90e074e12383209716c68b98a74982599e477900",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
